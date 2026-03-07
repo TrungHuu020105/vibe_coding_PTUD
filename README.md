@@ -68,3 +68,6 @@
 6. **Tab navigation**
    - Tab "Students" và "Classes" để quản lý riêng biệt
    - Mỗi tab có form thêm/sửa bên trái, bảng danh sách bên phải
+`Kết quá`
+<img width="2844" height="1528" alt="image" src="https://github.com/user-attachments/assets/f4671ae0-a851-4caa-a9cb-111108b9d616" />
+
