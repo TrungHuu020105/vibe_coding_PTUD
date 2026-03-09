@@ -3,6 +3,7 @@
 ## Thông tin cá nhân
 
 - **Họ tên:** Lê Trung Hữu
+- **MSSV:** 23666491
 - **Lớp:** Phát triển ứng dụng - HK2 2025-2026
 
 ## Tech Stack
